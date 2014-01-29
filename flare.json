@@ -1,0 +1,210 @@
+{
+ "name": "Internships",
+ "children": [
+  
+  {
+  "name": "AJC",
+  "children": [
+  {
+  	"name": "News apps",
+  	"children": [
+  	{"name": "SQL tables", "size": 3938},
+  		{"name": "Excel", "size": 3938},
+  		 {"name": "HTML", "size": 3938},
+  		  {"name": "CSS", "size": 3938},
+  		 {"name": "Javascript", "size": 3938},
+  		 {"name": "D3", "size": 3938},
+  		 {"name": "Google Maps API", "size": 3938}
+  	]}]},
+  
+  {
+   "name": "Wapo",
+   "children": [
+    {
+     "name": "Social media",
+     "children": [
+      {"name": "Twitter", "size": 3938},
+      {"name": "Facebook", "size": 3812},
+      {"name": "StumbleUpon", "size": 6714},
+      {"name": "Pinterest", "size": 743},
+      {"name": "Goodreads", "size": 743}
+     ]},
+    {
+     "name": "Data Viz",
+     "children": [
+     {"name": "Excel", "size": 3534},
+    {"name": "Google Refine", "size": 3534},
+	{"name": "HTML", "size": 3534},
+		{"name": "CSS", "size": 3534},
+      {"name": "Javascript", "size": 5731},
+      {"name": "jQuery", "size": 7840},
+      {"name": "D3", "size": 5914},
+      {"name": "Java", "size": 3416},
+    {"name": "Mapping", "size": 3416},
+    {"name": "Tilemill", "size": 3416},
+    {"name": "QGIS", "size": 3416} 
+     ]},
+    
+    {
+     "name": "Audience",
+     "children": [
+      {"name": "Digital strategy", "size": 7074},
+      {"name": "Blogging", "size": 7074},
+      {"name": "Homepage byline", "size": 7074},
+      {"name": "User testing", "size": 7074},
+      {"name": "SEO", "size":3000},
+      {"name": "APIs", "size": 7074}
+     ]}]},
+
+  {
+   "name": "Voice of America",
+   "children": [
+    {
+     "name": "TV to Africa",
+     "children": [
+      {"name": "Final Cut Pro", "size": 721},
+      {"name": "Shoot video", "size": 4294},
+      {"name": "Edit audio", "size": 9800},
+      {"name": "Facebook", "size": 1314},
+      {"name": "YouTube", "size": 2220},
+      {"name": "Voicing", "size": 2220},
+      {"name": "Research", "size": 2220}
+     ]}]},
+  
+  {
+   "name": "Athens Banner",
+   "children": [
+    {
+     "name": "Online News",
+     "children": [
+      {"name": "Drupal", "size": 721},
+      {"name": "HTML", "size": 4294},
+      {"name": "Editing", "size": 9800},
+      {"name": "Facebook", "size": 1314},
+      {"name": "Twitter", "size": 2220}
+     ]}]},
+  
+  {"name": "PLD",
+  "children": [
+  {
+  	"name": "Web Dev",
+  	"children": [
+  	{"name": "Photoshop", "size" : 3000},
+  	{"name": "Dreamweaver", "size" : 3000},
+  	{"name": "HTML", "size":3000},
+  	{"name": "CSS", "size":3000},
+  	{"name": "SEO", "size":3000}
+  	]}]},
+
+  
+  
+  
+  
+  {
+   "name": "University",
+   "children": [
+    {
+     "name": "Ugazine",
+     "children": [
+      {"name": "Editing", "size": 1302}
+     ]
+    },
+    {
+     "name": "NMI Certificate",
+     "children": [
+      {"name": "Javascript", "size": 2138},
+      {"name": "Wordpress", "size": 3824},
+      {"name": "Facebook API", "size": 1353},
+      {"name": "HTML", "size": 4665},
+      {"name": "CSS", "size": 2649},
+      {"name": "Dreamweaver", "size": 2832},
+      {"name": "jQuery Mobile", "size": 4896},
+      {"name": "App creation", "size": 763},
+      {"name": "Adobe Flash", "size": 5222},
+      {"name": "PhotoShop", "size": 7862}
+     ]
+    },
+    {
+     "name": "SPJ",
+     "children": [
+      {"name": "Led data sessions", "size": 20544},
+      {"name": "Website creation", "size": 19788},
+      {"name": "Blogging", "size": 10349}
+      
+     ]
+    },
+    {
+     "name": "ONA/Scholar",
+     "children": [
+      {"name": "Teach coding sessions", "size": 2313},
+      {"name": "Teach digital skills", "size": 1880},
+      {"name": "Survey creation", "size": 1701},
+      {"name": "Data analysis", "size": 1117},
+    {"name": "Interviewing", "size": 1117},
+      {"name": "Writing", "size": 1117}
+]
+    },
+    {
+     "name": "CS minor",
+     "children": [
+      {"name": "OOP", "size": 20859},
+      {"name": "Java ", "size": 4614},
+      {"name": "C", "size": 10530},
+    {"name": "C++", "size": 1117},
+    {"name": "UCD", "size": 1117},
+      {"name": "Product Management", "size": 1117},
+        {"name": "A/B Testing", "size": 1117}
+    
+
+     ]
+    },
+    {
+     "name": "The Red & Black",
+     "children": [
+      {
+       "name": "Reporter",
+       "children": [
+        {"name": "Writing", "size": 4461},
+        {"name": "Working on deadline", "size": 6314},
+        {"name": "AP Style", "size": 6314},
+        {"name": "DSLR photography", "size": 6314}
+    
+        
+       ]
+      },
+      {
+       "name": "Intl reporter",
+       "children": [
+      {"name": "FOIA requests", "size": 4461},
+        {"name": "Graphics", "size": 6314},
+        {"name": "Fusion Tables", "size": 3444},
+        {"name": "Excel", "size": 3444},
+        {"name": "Investigative Reporting", "size": 3444},
+        {"name": "DSLR photography", "size": 6314},
+        {"name": "Beat Reporting", "size": 3444}
+       ]
+      },
+    
+      
+      {
+       "name": "Multimedia Ed.",
+       "children": [
+        {"name": "Final Cut Pro", "size": 6725},
+        {"name": "Graphics", "size": 3727},
+        {"name": "Twitter", "size": 9317},
+        {"name": "Facebook", "size": 12003},
+        {"name": "SEO", "size": 4853},
+        {"name": "GIF creation", "size": 8411},
+        {"name": "Foursquare", "size": 4864},
+        {"name": "Wordpress", "size": 3174},
+         {"name": "Infographics", "size": 3174},
+        {"name": "CMS", "size": 7881}
+    
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
